@@ -1,0 +1,23 @@
+.menu {
+    // @include gradient;
+    // background-color: transparent;
+    // border-bottom: 2px solid white;
+    background-color: white;
+
+    padding: 1rem 0;
+
+
+    li {
+        padding: 0 0.7rem;
+
+        a {
+            color: black !important;
+            font-size: 1.125rem;
+
+            &:hover {
+                color: #000 !important;
+            }
+
+        }
+    }
+}

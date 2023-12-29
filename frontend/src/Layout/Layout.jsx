@@ -9,7 +9,7 @@ const Layout = () =>
     return (
         <div className='min-vh-100'>
             <Header />
-            <main className='min-vh-100'>
+            <main className=''>
                 <Outlet />
             </main>
             <Footer />

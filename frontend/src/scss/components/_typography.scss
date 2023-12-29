@@ -1,0 +1,23 @@
+.display-2 {
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+    color: white;
+
+    &--intro {
+        display: inline-block;
+        font-weight: 700;
+        // background-image: linear-gradient(to right, $primary, $secondary);
+        // background-clip: text;
+        // -webkit-text-fill-color: transparent;
+
+
+    }
+
+    &--description {
+        display: block;
+        font-size: 1.2rem;
+        margin-top: 1.2rem;
+
+
+    }
+}

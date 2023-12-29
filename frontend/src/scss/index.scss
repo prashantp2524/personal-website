@@ -1,3 +1,20 @@
 @import "./custom";
 
+// components import
+@import "./components/mixin";
+@import "./components/typography";
+@import "./components/container";
+
+
+
+// section import
 @import "./layout";
+
+@import "./section/header";
+@import "./section/home";
+@import "./section/services";
+@import "./section/portfolio";
+@import "./section/skills";
+@import "./section/testimonials";
+@import "./section/contact";
+@import "./section/about";
